@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **chaurasiaprakash15@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1mI7ik8D58QR3KsmyC5MTPJi8IaFClpOe/view?usp=sharing](https://drive.google.com/file/d/1mI7ik8D58QR3KsmyC5MTPJi8IaFClpOe/view?usp=sharing)
+<!--- 📄 Know about my experiences [https://drive.google.com/file/d/1mI7ik8D58QR3KsmyC5MTPJi8IaFClpOe/view?usp=sharing](https://drive.google.com/file/d/1mI7ik8D58QR3KsmyC5MTPJi8IaFClpOe/view?usp=sharing)-->
 
 - ⚡ Fun fact **I think I am funny**
 
