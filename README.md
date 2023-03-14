@@ -93,8 +93,16 @@
 </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mern-stack123&show_icons=true&locale=en&layout=compact" alt="mern-stack123" /></p>
+![MERN-Stack GitHub stats](https://github-readme-stats.vercel.app/api?username=mern-stack123&show_icons=true&theme=synthwave)
+<!--![MERN-Stack GitHub stats](https://github-readme-stats.vercel.app/api?username=mern-stack123&show_icons=true&theme=redical)
+![MERN-Stack GitHub stats](https://github-readme-stats.vercel.app/api?username=mern-stack123&show_icons=true&theme=merko)
+![MERN-Stack GitHub stats](https://github-readme-stats.vercel.app/api?username=mern-stack123&show_icons=true&theme=gruvbox)
+![MERN-Stack GitHub stats](https://github-readme-stats.vercel.app/api?username=mern-stack123&show_icons=true&theme=onedark)
+![MERN-Stack GitHub stats](https://github-readme-stats.vercel.app/api?username=mern-stack123&show_icons=true&theme=cobalt)
+![MERN-Stack GitHub stats](https://github-readme-stats.vercel.app/api?username=mern-stack123&show_icons=true&theme=dracula)
+![MERN-Stack GitHub stats](https://github-readme-stats.vercel.app/api?username=mern-stack123&show_icons=true&theme=highcontrast) -->
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mern-stack123&show_icons=true&locale=en&layout=compact" alt="mern-stack123" /></p>
+ -->
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mern-stack123&show_icons=true&locale=en" alt="mern-stack123" /></p> -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mern-stack123&show_icons=true&locale=en" alt="mern-stack123" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mern-stack123&" alt="mern-stack123" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mern-stack123&theme=synthwave" alt="mern-stack123" /></p>
