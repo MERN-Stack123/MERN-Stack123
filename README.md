@@ -3,8 +3,17 @@
 <h1 align="center">Hi 👋, I'm Prakash Chaurasia</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mern-stack123&label=Profile%20views&color=0e75b6&style=flat" alt="mern-stack123" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mern-stack123" alt="mern-stack123" /></a> </p>
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=mern-stack123&label=Profile%20views&color=FF00FF&style=flat" alt="mern-stack123" />
+</p>
+<!-- <p align="left">
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+<img src="https://github-profile-trophy.vercel.app/?username=mern-stack123" alt="mern-stack123" />
+</a>
+</p> -->
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=mern-stack123&theme=dracula&margin-w=10&no-frame=true)](https://github.com/mern-stack123/github-profile-trophy)
+
 <img align="right" width=320 height=250 alt="coding_gify" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47vxpozmtfufjsdeqgqagekn2e6lgdot226rt0w8vm&rid=giphy.gif&ct=g">
 
 - 🔭 I’m currently working on **3D website**
@@ -99,9 +108,11 @@
 </p>
 
 
-![MERN-Stack GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=mern-stack123&show_icons=true&locale=en&layout=compact&theme=synthwave)
-![MERN-Stack GitHub stats](https://github-readme-stats.vercel.app/api?username=mern-stack123&show_icons=true&theme=synthwave)
-![MERN-Stack GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=mern-stack123&theme=synthwave)
+
+![Top langs](https://github-readme-stats.vercel.app/api/top-langs?username=mern-stack123&show_icons=true&locale=en&layout=compact&theme=synthwave&hide_border=true)<br>
+
+![MERN-Stack GitHub stats](https://github-readme-stats.vercel.app/api?username=mern-stack123&show_icons=true&theme=synthwave&hide_border=true)&nbsp;&nbsp;&nbsp;&nbsp;
+![MERN-Stack GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=mern-stack123&theme=synthwave&hide_border=true)
 <!--![MERN-Stack GitHub stats](https://github-readme-stats.vercel.app/api?username=mern-stack123&show_icons=true&theme=redical)
 ![MERN-Stack GitHub stats](https://github-readme-stats.vercel.app/api?username=mern-stack123&show_icons=true&theme=merko)
 ![MERN-Stack GitHub stats](https://github-readme-stats.vercel.app/api?username=mern-stack123&show_icons=true&theme=gruvbox)
