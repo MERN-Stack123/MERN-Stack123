@@ -46,9 +46,14 @@
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
 <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="bootstrap" width="40" height="40"/> 
 </a> 
+<!-- <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+</a>  -->
+ 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/512px-CSS3_logo.svg.png?20210705212817" alt="css3" width="40" height="40"/> 
 </a> 
+ 
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
 <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> 
 </a> 
@@ -93,7 +98,10 @@
 </a> 
 </p>
 
+
+![MERN-Stack GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=mern-stack123&show_icons=true&locale=en&layout=compact&theme=synthwave)
 ![MERN-Stack GitHub stats](https://github-readme-stats.vercel.app/api?username=mern-stack123&show_icons=true&theme=synthwave)
+![MERN-Stack GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=mern-stack123&theme=synthwave)
 <!--![MERN-Stack GitHub stats](https://github-readme-stats.vercel.app/api?username=mern-stack123&show_icons=true&theme=redical)
 ![MERN-Stack GitHub stats](https://github-readme-stats.vercel.app/api?username=mern-stack123&show_icons=true&theme=merko)
 ![MERN-Stack GitHub stats](https://github-readme-stats.vercel.app/api?username=mern-stack123&show_icons=true&theme=gruvbox)
@@ -101,8 +109,9 @@
 ![MERN-Stack GitHub stats](https://github-readme-stats.vercel.app/api?username=mern-stack123&show_icons=true&theme=cobalt)
 ![MERN-Stack GitHub stats](https://github-readme-stats.vercel.app/api?username=mern-stack123&show_icons=true&theme=dracula)
 ![MERN-Stack GitHub stats](https://github-readme-stats.vercel.app/api?username=mern-stack123&show_icons=true&theme=highcontrast) -->
+
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mern-stack123&show_icons=true&locale=en&layout=compact&theme=synthwave" alt="mern-stack123" /></p> -->
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mern-stack123&show_icons=true&locale=en&layout=compact" alt="mern-stack123" /></p>
  -->
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mern-stack123&show_icons=true&locale=en" alt="mern-stack123" /></p> -->
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mern-stack123&theme=synthwave" alt="mern-stack123" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mern-stack123&theme=synthwave" alt="mern-stack123" /></p> -->
