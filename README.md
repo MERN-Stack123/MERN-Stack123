@@ -111,7 +111,7 @@
 
 ![Top langs](https://github-readme-stats.vercel.app/api/top-langs?username=mern-stack123&show_icons=true&locale=en&layout=compact&theme=synthwave&hide_border=true)<br>
 
-![MERN-Stack GitHub stats](https://github-readme-stats.vercel.app/api?username=mern-stack123&show_icons=true&theme=synthwave&hide_border=true&margin-h=10)&nbsp;&nbsp;&nbsp;&nbsp;
+![MERN-Stack GitHub stats](https://github-readme-stats.vercel.app/api?username=mern-stack123&show_icons=true&theme=synthwave&hide_border=true&margin-h=20)&nbsp;&nbsp;&nbsp;&nbsp;
 ![MERN-Stack GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=mern-stack123&theme=synthwave&hide_border=true)
 <!--![MERN-Stack GitHub stats](https://github-readme-stats.vercel.app/api?username=mern-stack123&show_icons=true&theme=redical)
 ![MERN-Stack GitHub stats](https://github-readme-stats.vercel.app/api?username=mern-stack123&show_icons=true&theme=merko)
